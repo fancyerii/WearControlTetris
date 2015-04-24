@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/classes-2c2ae9af2596f3fc9a2640abbbc1dae8dd255efe.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/classes-459a0c73a2bd3f35b6835c7c0c1c529223148183.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/classes-94412c17b7f2d378561d9dfcd160a71d6f771687.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-ad4aeeae1a495f9deb6b719822fa48fde6fa15ab.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/libs/mobvoi-api.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5332c93f46ac51c6976bddc04ea33a7b3afd5b14">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/mobvoi-api-a56e3be3682bbf46b005059f581cbe0e8c2b12fe.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/mobile/build/intermediates/pre-dexed/debug/classes-78b8faba75ffcfb7eef5a637c94b9ad881ffe23e.jar" />
+    </item>
+    <item
+        jar="/Users/lili/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/support-annotations-21.0.0-81d76b8c7dc762a8b90d0ea0fd32c630f5cf681f.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/mobile/libs/mobvoi-api.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5332c93f46ac51c6976bddc04ea33a7b3afd5b14">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/mobile/build/intermediates/pre-dexed/debug/mobvoi-api-7bb098764c66948609acc91d8dd7ab648cfe69a7.jar" />
+    </item>
+    <item
+        jar="/Users/lili/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/gson-2.2.4-722800af3a75cdfdaf477eff8766651a43925361.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/internal_impl-21.0.0-171fdc4730afa633a1df438bc2cc656a6d3b352f.jar" />
+    </item>
+    <item
+        jar="/Users/lili/AndroidStudioProjects/WearControlTetris/common/build/libs/common.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="4e3001b206b2e409708dee4ae6e81a6f43f3f019">
+        <dex dex="/Users/lili/AndroidStudioProjects/WearControlTetris/wear/build/intermediates/pre-dexed/release/common-06a4026ed3395dce97119589492d7feb3442878b.jar" />
+    </item>
+
+</items>
